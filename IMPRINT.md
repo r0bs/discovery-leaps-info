@@ -2,14 +2,14 @@
 
 ## Information according to § 5 TMG
 
-Robert Schulz
-Pestalozzistr. 1
-38114 Braunschweig
+Robert Schulz  
+Pestalozzistr. 1  
+38114 Braunschweig  
 
 ## Contact
 
-Phone: 0531 60185585
-Email: r@r0bs.net
+Phone: 0531 60185585  
+Email: r@r0bs.net  
 
 ## Disclaimer
 
