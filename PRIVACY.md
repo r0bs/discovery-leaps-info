@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: [Date]
+Last updated: 2025-10-14
 
 ## Introduction
 
@@ -51,10 +51,7 @@ Since we do not collect or store any of your personal data on our servers, there
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
-
-Email: [Your Email Address]  
-Address: [Your Address]
+If you have any questions about this Privacy Policy, please contact us.
 
 ## Compliance
 
