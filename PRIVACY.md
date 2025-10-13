@@ -4,13 +4,13 @@ Last updated: [Date]
 
 ## Introduction
 
-This Privacy Policy describes our data practices for our mobile application ("App"). We are committed to protecting your privacy.
+This Privacy Policy describes our data practices for Discovery Leaps ("App"). We are committed to protecting your privacy.
 
 ## Data Collection and Storage
 
 **We do not collect, transmit, or store any personal data on external servers.**
 
-All data you create or input within the App is stored exclusively on your device. The App:
+All data you create or input within Discovery Leaps is stored exclusively on your device. Discovery Leaps:
 - Does not track your activity
 - Does not transmit any data to external servers
 - Does not collect any personal information
@@ -19,10 +19,10 @@ All data you create or input within the App is stored exclusively on your device
 
 ## Local Data Storage
 
-Any data you create within the App (such as user-generated content, settings, or preferences) is stored only on your local device. This data:
+Any data you create within Discovery Leaps (such as user-generated content, settings, or preferences) is stored only on your local device. This data:
 - Remains under your complete control
 - Is not accessible to us or any third parties
-- Can be deleted by uninstalling the App or clearing the App's data through your device settings
+- Can be deleted by uninstalling Discovery Leaps or clearing the app's data through your device settings
 
 ## Data Security
 
@@ -35,11 +35,11 @@ We recommend keeping your device secure and up-to-date with the latest security 
 
 ## Third-Party Services
 
-The App does not integrate with any third-party services, analytics platforms, or advertising networks.
+Discovery Leaps does not integrate with any third-party services, analytics platforms, or advertising networks.
 
 ## Children's Privacy
 
-The App does not collect any personal information from anyone, including children. Since no data is transmitted or collected, the App is safe for users of all ages.
+Discovery Leaps does not collect any personal information from anyone, including children. Since no data is transmitted or collected, Discovery Leaps is safe for users of all ages.
 
 ## Changes to This Privacy Policy
 
